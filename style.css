@@ -213,7 +213,7 @@ button.active span span:nth-of-type(8) {
   }
   .container {
     width: 100vw;
-    height: 100%;
+    height: 150vh;
     box-sizing: border-box;
     overflow: hidden;
     display: flex;
