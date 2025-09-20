@@ -260,7 +260,6 @@ button.active span span:nth-of-type(8) {
   }
   #canvas {
     width: 60vw;
-    height: 70px:
     position: absolute;
     bottom: 0;
   }
@@ -331,7 +330,4 @@ button.active span span:nth-of-type(8) {
   .box {
     transform: translateY(400px);
   }
-
 }
-
-
