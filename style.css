@@ -44,7 +44,6 @@ body {
 .box {
     display: flex;
     justify-content: center;
-    transform: translateY(50px);
 }
 button {
   width: 70px;
@@ -231,9 +230,6 @@ button.active span span:nth-of-type(8) {
     position: absolute;
     bottom: 0;
   }
-  .box {
-    transform: translateY(0);
-  }
 }
 @media screen and (min-width: 501px) and (max-width: 700px) {
   h1 {
@@ -262,9 +258,6 @@ button.active span span:nth-of-type(8) {
     width: 60vw;
     position: absolute;
     bottom: 0;
-  }
-  .box {
-    transform: translateY(0);
   }
 }
 @media screen and (min-width: 701px) and (max-width: 900px) {
@@ -295,9 +288,6 @@ button.active span span:nth-of-type(8) {
     position: absolute;
     bottom: 0;
   }
-  .box {
-    transform: translateY(0);
-  }
 }
 @media screen and (min-width: 900px) and (max-width: 1300px) {
   h1 {
@@ -327,9 +317,4 @@ button.active span span:nth-of-type(8) {
     position: absolute;
     bottom: 0;
   }
-  .box {
-    transform: translateY(30px);
-  }
 }
-
-
