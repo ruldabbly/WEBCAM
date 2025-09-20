@@ -229,7 +229,7 @@ button.active span span:nth-of-type(8) {
   #canvas {
     width: 85vw;
     position: absolute;
-    bottom: 0;
+    bottom: 15px;
   }
   .box {
     transform: translateY(400px);
@@ -261,7 +261,7 @@ button.active span span:nth-of-type(8) {
   #canvas {
     width: 60vw;
     position: absolute;
-    bottom: 0;
+    bottom: 15px;
   }
   .box {
     transform: translateY(400px);
@@ -293,7 +293,7 @@ button.active span span:nth-of-type(8) {
   #canvas {
     width: 40vw;
     position: absolute;
-    bottom: 0;
+    bottom: 20px;
   }
   .box {
     transform: translateY(400px);
@@ -325,7 +325,7 @@ button.active span span:nth-of-type(8) {
   #canvas {
     width: 25vw;
     position: absolute;
-    bottom: 0;
+    bottom: 30px;
   }
   .box {
     transform: translateY(400px);
