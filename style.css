@@ -263,9 +263,9 @@ button.active span span:nth-of-type(8) {
     position: absolute;
     bottom: 0;
   }
-  /* .box {
-    transform: translateY(400px);
-  } */
+  .box {
+    transform: translateY(0);
+  }
 }
 @media screen and (min-width: 701px) and (max-width: 900px) {
   h1 {
@@ -295,9 +295,9 @@ button.active span span:nth-of-type(8) {
     position: absolute;
     bottom: 0;
   }
-  /* .box {
-    transform: translateY(400px);
-  } */
+  .box {
+    transform: translateY(0);
+  }
 }
 @media screen and (min-width: 900px) and (max-width: 1300px) {
   h1 {
@@ -328,6 +328,6 @@ button.active span span:nth-of-type(8) {
     bottom: 0;
   }
   .box {
-    transform: translateY(400px);
+    transform: translateY(30px);
   }
 }
