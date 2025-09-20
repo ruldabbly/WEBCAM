@@ -228,6 +228,7 @@ button.active span span:nth-of-type(8) {
   }
   #canvas {
     width: 85vw;
+    height: 95px:
     position: absolute;
     bottom: 15px;
   }
@@ -260,6 +261,7 @@ button.active span span:nth-of-type(8) {
   }
   #canvas {
     width: 60vw;
+    height: 70px:
     position: absolute;
     bottom: 15px;
   }
@@ -292,6 +294,7 @@ button.active span span:nth-of-type(8) {
   }
   #canvas {
     width: 40vw;
+    height: 50px:
     position: absolute;
     bottom: 20px;
   }
@@ -324,10 +327,12 @@ button.active span span:nth-of-type(8) {
   }
   #canvas {
     width: 25vw;
+    height: 35px:
     position: absolute;
     bottom: 30px;
   }
   .box {
     transform: translateY(400px);
   }
+
 }
